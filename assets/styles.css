@@ -1,6 +1,6 @@
 nav {
   margin-bottom: 60px; 
-  background-image
+  color:deepskyblue
 }
 
 .bioImage {
@@ -12,9 +12,22 @@ nav {
 
 .container {
   margin: 30px auto;
-  background-color: lightseagreen;
+  backdrop-filter: blur(2px) grayscale(100%) brightness(50%);
+  text-shadow:1px 1px 0px #8B4513;
+  color: #F4A460;
+  border-radius: 20px;
 }
 
+
+
 body {
-  background-color: mediumaquamarine;
+  background-image: url("Crystal Crag.jpg");
+  
+  background-position: center center;
+  background-repeat:no-repeat;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #4682B4;
+  border-radius: 10px;
 }
