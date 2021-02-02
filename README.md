@@ -1,5 +1,5 @@
 # RJohnson_responsivePortfolio
-developing a responsive portfolio website using the bootstrap .css framework
+Developing a responsive portfolio website using the bootstrap .css framework
 
 ## Description
 With this excersize we were introduced to the Bootstrap .CSS Framework. The purpose being to utilize the plug and play nature of the framework to create a responsive portfolio page.
@@ -21,12 +21,18 @@ The background of my website is a photo of the mountains near my home, and I wan
  issue on this page.
 
 Elements of my project are as follows
+* About: A shout bio with a photo of me and a navbar element leading to other pages.
+  * [About](screenshots/About.jpg)
 
+* Portfolio: a page with a link to our first project, and also place holder links for future projects.
+  * [Portfolio](screenshots/Portfolio.jpg)
 
+* Contact: A page with a short form that will also be used to get in contact with me once I learn how to make it do that.
+  * [Contact](screenshots/Contact.jpg)
 
- * [About](screenshots/About.jpg)
- * [Portfolio](screenshots/Portfolio.jpg)
- * [Contact](screenshots/Contact.jpg)
+All pages have a footer element with links to gitHub and Linkedin.
+
+Visit site [Responsive_Portfolio](https://rjsa210.github.io/RJohnson_responsivePortfolio/)
 
 
 
